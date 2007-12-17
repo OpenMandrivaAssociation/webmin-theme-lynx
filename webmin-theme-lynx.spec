@@ -10,7 +10,6 @@ License: GPL
 URL: http://www.pello.info/?q=node/view/15
 Source: http://www.pello.info/filez/lynxth.wbt
 BuildArch: noarch
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 A very light theme for Webmin, lynx-enabled.
