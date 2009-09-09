@@ -2,7 +2,7 @@
 
 Name: webmin-theme-lynx
 Version: 0.02
-Release: %mkrel 6
+Release: %mkrel 7
 Summary: Theme Lynx for Webmin
 Summary(pt_BR): Tema Lynx para o Webmin
 Group: System/Configuration/Other
