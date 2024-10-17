@@ -7,7 +7,7 @@ Summary: Theme Lynx for Webmin
 Summary(pt_BR): Tema Lynx para o Webmin
 Group: System/Configuration/Other
 License: GPL
-URL: http://www.pello.info/?q=node/view/15
+URL: https://www.pello.info/?q=node/view/15
 Source: http://www.pello.info/filez/lynxth.wbt
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
